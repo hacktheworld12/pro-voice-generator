@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/gemini-prod-us-central1-913955422895-public/i/24/07/11/a03b57368d193d5f3088b90c1f513903.png" alt="Voice Icon" width="120">
   <h1 align="center">🔊 Pro Voice Generator</h1>
   <p align="center">
     <strong>Craft professional, AI-powered voiceovers with granular control over performance, effects, and music.</strong>
@@ -26,7 +25,7 @@
 
 > **Pro Voice Generator** is a sophisticated web application that leverages the power of Google's Gemini Text-to-Speech API to transform text into high-quality, emotionally resonant English voiceovers. It provides a user-friendly interface with a suite of professional controls, allowing users to meticulously direct the voice performance, apply studio-grade effects, and mix in background music for a complete audio production.
 
-![Application Screenshot](https://storage.googleapis.com/gemini-prod-us-central1-913955422895-public/i/24/07/11/1d7c07b093325c4873d6b04ebfa204c3.png)
+
 
 ---
 
